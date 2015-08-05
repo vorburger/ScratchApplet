@@ -2,7 +2,7 @@ Java Decompiler Test,
 using Web Browser Java Applet ScratchApplet.jar
 from MIT Scratch http://scratch.mit.edu/
 
-Result: Fernflower from http://www.reversed-java.com/fernflower/ is AMAZING
+Result: Fernflower from https://github.com/fesh0r/fernflower is AMAZING
 (except that his site doesn't work on Chrome & Safari, only Firefox).
 
 JD from http://java.decompiler.free.fr/ works but is far behind (for this JAR at least)
